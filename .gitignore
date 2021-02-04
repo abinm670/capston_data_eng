@@ -1,0 +1,5 @@
+.DS_Store
+logs/
+sas_data/
+weather/
+.ipynb_checkpoints/
